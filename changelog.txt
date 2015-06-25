@@ -1,2 +1,5 @@
+version 0.0.2
+	disallow multiple instances
+
 version 0.0.1
 	Intitial release
