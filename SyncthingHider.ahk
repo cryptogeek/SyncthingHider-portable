@@ -3,6 +3,10 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
+#SingleInstance ignore
+
+FileCreateDir, config
+
 Run, syncthing.exe -no-browser -home %A_ScriptDir%/config
 WinWait, ahk_exe syncthing.exe
 WinHide
