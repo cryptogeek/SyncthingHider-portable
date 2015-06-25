@@ -29,4 +29,5 @@ ExitSub:
 Process, Close, syncthing.exe
 Process, Close, syncthing.exe
 Process, Close, syncthing.exe
+Process, Close, syncthing.exe
 ExitApp
