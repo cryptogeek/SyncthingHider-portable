@@ -1,5 +1,4 @@
-# Download:
-https://github.com/cryptogeek/SyncthingHider-portable/raw/master/SyncthingHider.exe
+# <a href="https://github.com/cryptogeek/SyncthingHider-portable/raw/master/SyncthingHider.exe" >Click here to download</a>
 
 # Tested OS: 
 Windows 8.1 64bit
