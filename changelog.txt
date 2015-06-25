@@ -1,5 +1,8 @@
-version 0.0.2
+0.0.3
+	added another exit command for syncthing because in some cases syncthing did not fully exit
+
+0.0.2
 	disallow multiple instances
 
-version 0.0.1
+0.0.1
 	Intitial release
