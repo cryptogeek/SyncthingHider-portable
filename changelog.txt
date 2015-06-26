@@ -1,3 +1,7 @@
+0.1.3
+	-changed the method of closing Syncthing to avoid possible database corruption
+	-added a right click menu option to show console
+
 0.0.3
 	added another exit command for syncthing because in some cases syncthing did not fully exit
 
